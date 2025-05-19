@@ -48,4 +48,3 @@ This project is open-source and available for educational and research purposes.
 
 ---
 
-*This README provides a comprehensive overview of the MNIST digit classification project using convolutional neural networks, explaining the dataset, model architecture, training workflow, and practical applications.*
